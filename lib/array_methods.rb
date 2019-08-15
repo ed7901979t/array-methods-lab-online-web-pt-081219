@@ -22,7 +22,7 @@ def using_size(array)
   array.size
 end
 
-array ["one", "two", "three", "four"]
+array = ["one", "two", "three", "four"]
 using_include(array, "five" )
 using_sort(array)
 using_reverse(array)
